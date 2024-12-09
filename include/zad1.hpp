@@ -6,3 +6,9 @@
 
 // Zad1
 // tutaj definicja klasy Tagliatelle
+class Tagliatelle {
+    private:
+        double L;
+        double W;
+        double R;
+};
